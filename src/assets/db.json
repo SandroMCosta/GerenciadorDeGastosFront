@@ -1,0 +1,16 @@
+{
+  "gastos": [
+    {
+      "id": "b80d",
+      "data": "31/01/2024",
+      "descricao": "Cartão de Crédito",
+      "valor": 1500
+    },
+    {
+      "id": "7e50",
+      "data": "01/02/2024",
+      "descricao": "Padaria",
+      "valor": 5
+    }
+  ]
+}
